@@ -1,0 +1,9 @@
+body {
+  background: #202020;
+  color: white;
+}
+.main-one{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
